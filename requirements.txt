@@ -7,3 +7,4 @@ playsound==1.2.2
 transformers 
 SpeechRecognition
 pyaudio
+flask
