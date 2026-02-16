@@ -1,0 +1,9 @@
+requests>=2.31.0
+numpy>=1.24.0
+pydantic>=2.0
+python-dotenv>=1.0.0
+gtts 
+playsound==1.2.2
+transformers 
+SpeechRecognition
+pyaudio
